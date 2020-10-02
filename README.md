@@ -1,2 +1,2 @@
-# webpack_p1
-First webpack project
+# **webpack_p1**
+First project made with webpack
